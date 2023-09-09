@@ -2,12 +2,16 @@
 #include <time.h>
 #include <stdio.h>
 
-
 /**
- * more headers goes there 
- * betty style doc for function main goes there 
- *  your code goes there 
+ * main - entry point
+ *
+ * n is number
+ *
+ * Description: false or true validation
+ *
+ * return: 0 (success)
  */
+
 int main(void)
 {
 	int n;
